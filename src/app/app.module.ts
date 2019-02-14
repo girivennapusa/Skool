@@ -13,12 +13,14 @@ import {MatIconModule} from '@angular/material/icon';
 import {MatInputModule} from '@angular/material';
 
 import { SignUpPageComponent } from './sign-up-page/sign-up-page.component';
+import { LogInPageComponent } from './log-in-page/log-in-page.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     SignUpPageComponent,
+    LogInPageComponent,
     
   ],
   imports: [

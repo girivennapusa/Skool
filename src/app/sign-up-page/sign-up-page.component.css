@@ -1,8 +1,19 @@
 .signUp-card {
+  
     max-width: 400px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50%;
+    transform:translateY(-50%);
+    
+    
   }
   
   .example-header-image {
-    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-image: url();
     background-size: cover;
+  }
+
+  .form-field{
+ width:100%;
   }
