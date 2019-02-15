@@ -1,0 +1,24 @@
+.navbar {
+    background-image: url('src/assets/images/bg-img.jpg');
+    width: 100%;
+    height: 250px;
+}
+.navbar-line{
+    float:right;
+}
+.navbar h1{
+    display: inline-block;
+    margin-right: 410px;
+    
+}
+.navbar p{
+    display: inline-block;
+    margin-right: 10px;
+}
+.navbar button{
+    display: inline-block;
+    margin-right: 10px;
+    
+}
+
+

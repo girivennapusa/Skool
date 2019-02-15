@@ -2,6 +2,7 @@
     max-width: 400px;
     margin-left:auto;
     margin-right: auto;
+    transform: translateY(-25%);
 }
 .forms{
     width: 360px;
@@ -10,4 +11,7 @@
 }
 .formsinput{
     
+}
+.login-button{
+    float: right;
 }
