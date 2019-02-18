@@ -1,5 +1,5 @@
 .navbar {
-    background-image: url('src/assets/images/bg-img.jpg');
+    background-image: url('src/assets/images/bg-img1.jpg');
     width: 100%;
     height: 250px;
 }
@@ -9,11 +9,13 @@
 .navbar h1{
     display: inline-block;
     margin-right: 410px;
-    
+    color: #fafafa;
 }
 .navbar p{
     display: inline-block;
     margin-right: 10px;
+    font-size: 18px;
+    color: #fafafa;
 }
 .navbar button{
     display: inline-block;
